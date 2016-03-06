@@ -1,0 +1,13 @@
+{
+  "name": "Ghost",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
